@@ -10,5 +10,8 @@
     <h1>
         Hello World!!
     </h1>
+    <p>
+        {{ $name }} {{ $place }}
+    </p>
 </body>
 </html>
